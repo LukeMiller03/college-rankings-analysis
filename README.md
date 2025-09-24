@@ -1,5 +1,5 @@
 # BAIS3250-Final-Project
-## Authors: Kelvin Wu, Luke Miller
+## Author: Luke Miller
 ### Folder Structure
 
 The project consists of several files: \

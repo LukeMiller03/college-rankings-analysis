@@ -1,1 +1,1 @@
-This folder contains processed data that is ready for analysis. 
+This directory contains the final report. 

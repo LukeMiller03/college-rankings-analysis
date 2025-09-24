@@ -1,1 +1,1 @@
-This directory contains the final report. 
+This folder contains Jupyter notebooks used for analysis and wrangling.

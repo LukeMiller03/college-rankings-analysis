@@ -1,1 +1,1 @@
-This folder contains raw data collected from downloads and scraping external sources.
+This folder contains processed data that is ready for analysis. 
